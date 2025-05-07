@@ -1,0 +1,10 @@
+detector_type,regime,noise_std,false_positive_rate,false_negative_rate,hybrid_final_threshold
+Hybrid,exponential,0.01,0.055,0.0,0.6
+Hybrid,exponential,0.05,0.09,0.0,0.6
+Hybrid,exponential,0.1,0.105,0.0,0.6
+Hybrid,logistic,0.01,0.125,0.0,0.6
+Hybrid,logistic,0.05,0.16,0.0,0.6
+Hybrid,logistic,0.1,0.155,0.0,0.6
+Hybrid,jolt,0.01,0.0,0.0,0.6
+Hybrid,jolt,0.05,0.0,0.0,0.6
+Hybrid,jolt,0.1,0.0,0.0,0.6

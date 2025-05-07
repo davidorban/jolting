@@ -1,0 +1,59 @@
+# Monte Carlo Jolt Publication Style
+# A centralized Matplotlib style with journal-ready fonts and vector defaults
+
+# Figure properties
+figure.figsize: 8, 6
+figure.dpi: 300
+figure.facecolor: white
+figure.edgecolor: white
+
+# Font properties
+font.family: serif
+font.serif: Computer Modern Roman, Times New Roman, DejaVu Serif
+font.size: 12
+font.weight: normal
+mathtext.fontset: cm
+
+# Axes properties
+axes.titlesize: 14
+axes.labelsize: 12
+axes.linewidth: 1.0
+axes.grid: True
+axes.prop_cycle: cycler('color', ['1f77b4', 'ff7f0e', '2ca02c', 'd62728', '9467bd', '8c564b', 'e377c2', '7f7f7f', 'bcbd22', '17becf'])
+
+# Grid properties
+grid.linestyle: --
+grid.linewidth: 0.5
+grid.alpha: 0.5
+
+# Line properties
+lines.linewidth: 1.5
+lines.markersize: 6
+lines.markeredgewidth: 1.0
+
+# Tick properties
+xtick.direction: out
+ytick.direction: out
+xtick.major.width: 1.0
+ytick.major.width: 1.0
+xtick.labelsize: 10
+ytick.labelsize: 10
+
+# Legend properties
+legend.fontsize: 10
+legend.frameon: True
+legend.framealpha: 0.8
+legend.edgecolor: 0.8
+legend.borderpad: 0.4
+legend.columnspacing: 2.0
+legend.handlelength: 2.0
+
+# Saving properties
+savefig.dpi: 300
+savefig.format: pdf
+savefig.bbox: tight
+savefig.pad_inches: 0.1
+savefig.transparent: False
+
+# Histogram properties
+hist.bins: 50
