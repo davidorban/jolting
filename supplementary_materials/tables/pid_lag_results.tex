@@ -1,0 +1,23 @@
+
+\begin{table}[ht]
+\centering
+\caption{Governance PID-Lag Model Simulation Results}
+\label{tab:pid_lag_results}
+\begin{tabular}{lrr}
+\toprule
+\textbf{Metric} & \textbf{Without Governance} & \textbf{With Governance} \\
+\midrule
+Maximum Technology Level & 148.40 & 1.46 \\
+Maximum Risk Level & 1.00 & 0.00 \\
+Average Risk Level & 0.54 & 0.00 \\
+Time to Risk > 0.5 & 47.0 & N/A \\
+\midrule
+\multicolumn{3}{l}{\textbf{Governance Parameters}} \\
+PID Gains (Kp, Ki, Kd) & \multicolumn{2}{r}{0.50, 0.10, 0.20} \\
+Response Delay & \multicolumn{2}{r}{5 time steps} \\
+Response Time & \multicolumn{2}{r}{10 time steps} \\
+Effectiveness Cap & \multicolumn{2}{r}{0.80} \\
+Jolt Response Delay & \multicolumn{2}{r}{50.0} \\
+\bottomrule
+\end{tabular}
+\end{table}

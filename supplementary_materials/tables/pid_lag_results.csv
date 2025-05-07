@@ -1,0 +1,11 @@
+,,
+Maximum Technology Level,148.40,1.46
+Maximum Risk Level,1.00,0.00
+Average Risk Level,0.54,0.00
+Time to Risk > 0.5,47.0,N/A
+l}{
+PID Gains (Kp, Ki, Kd),r}{0.50, 0.10, 0.20
+Response Delay,r}{5 time steps
+Response Time,r}{10 time steps
+Effectiveness Cap,r}{0.80
+Jolt Response Delay,r}{50.0

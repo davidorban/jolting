@@ -1,0 +1,6 @@
+,c}{false_positive_rate,c}{false_negative_rate
+regime,exponential,jolt,logistic,exponential,jolt,logistic
+noise_std,,,,,,
+,0.905,0.000,1.000,0.000,0.000,0.000
+,0.955,0.000,0.990,0.000,0.000,0.000
+,0.975,0.000,0.990,0.000,0.000,0.000

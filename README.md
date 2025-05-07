@@ -15,6 +15,9 @@ This repository contains the complete code implementation for the empirical stud
   - `imagenet/` - Analysis of ImageNet performance data (to be implemented)
 - `governance/` - Contains governance models
   - `pid_lag/` - Governance PID-Lag model implementation
+- `supplementary_materials/` - Contains supplementary materials for the paper
+  - `figures/` - High-resolution figures for all empirical components
+  - `tables/` - Data tables in CSV and LaTeX formats
 
 ## Monte Carlo Jolt Detection
 
