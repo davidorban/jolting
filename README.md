@@ -6,8 +6,54 @@ This repository contains the code implementation for the empirical studies suppo
 
 - `simulations/` - Contains simulation code for various empirical studies
   - `monte_carlo_jolt/` - Monte Carlo simulation for evaluating jolt detection algorithms
-  - `agentbench/` - Analysis of AgentBench performance data (to be implemented)
-  - `governance_pid/` - Governance PID-Lag model implementation (to be implemented)
+- `analysis/` - Contains analysis code for empirical studies
+  - `agentbench/` - Analysis of AgentBench performance data
+  - `imagenet/` - Analysis of ImageNet performance data (to be implemented)
+- `governance/` - Contains governance models
+  - `pid_lag/` - Governance PID-Lag model implementation (to be implemented)
+
+## Monte Carlo Jolt Detection
+
+The `monte_carlo_jolt` directory contains a complete implementation of a Monte Carlo simulation framework for evaluating jolt detection algorithms. The simulation generates synthetic capability curves for three growth regimes (exponential, logistic, and jolt) and evaluates the performance of various jolt detection approaches.
+
+## AgentBench Jolt Analysis
+
+The `analysis/agentbench` directory contains an implementation of jolt detection applied to AgentBench leaderboard data. It generates synthetic monthly snapshots of AI agent performance and analyzes them to detect periods of super-exponential acceleration. The implementation is designed to work with both synthetic data and real historical data when available.
+
+### Key Components
+
+- `agentbench_jolt/` - Python package implementing core functionality
+  - `generator.py` - Synthetic AgentBench data generation
+  - `analyzer.py` - Data preprocessing and jolt detection
+- `run_agentbench_analysis.py` - Main script to run the analysis
+- `run_stronger_jolt.py` - Script for testing with stronger jolt parameters
+- `run_extreme_jolt.py` - Script for testing with extreme jolt parameters
+- `notebooks/` - Jupyter notebooks for visualization and analysis
+  - `Figure_AgentBench.ipynb` - Interactive notebook for creating publication-ready figures
+- `data/` - Directory for storing synthetic and historical data
+- `results/` - Directory for storing analysis results
+  - `figures/` - Generated visualizations
+  - `tables/` - LaTeX tables for publication
+
+### Usage
+
+```bash
+# Generate synthetic data and run the analysis with default parameters
+python run_agentbench_analysis.py
+
+# Customize the synthetic data generation
+python run_agentbench_analysis.py --start-date 2024-01-01 --num-months 18 --jolt-month 9 --jolt-magnitude 15.0
+
+# Run with stronger jolt parameters for better detection
+python run_stronger_jolt.py
+
+# Run with extreme jolt parameters to ensure detection
+python run_extreme_jolt.py
+```
+
+### Integration with Monte Carlo Module
+
+The AgentBench analysis leverages the hybrid jolt detection algorithm developed in the Monte Carlo simulation component. This ensures consistency in methodology across different empirical studies and allows for direct comparison of results.
 
 ## Monte Carlo Jolt Detection
 
