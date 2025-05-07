@@ -1,6 +1,10 @@
 # Jolting Technologies Hypothesis - Code Repository
 
-This repository contains the code implementation for the empirical studies supporting the Jolting Technologies Hypothesis paper.
+This repository contains the complete code implementation for the empirical studies supporting the Jolting Technologies Hypothesis paper. The repository includes three main components:
+
+1. **Monte Carlo Jolt Detection**: A simulation framework for evaluating jolt detection algorithms
+2. **AgentBench Analysis**: Application of jolt detection to AI agent capabilities data
+3. **Governance PID-Lag Model**: A toy model simulating governance responses to technological acceleration and jolts
 
 ## Repository Structure
 
@@ -10,7 +14,7 @@ This repository contains the code implementation for the empirical studies suppo
   - `agentbench/` - Analysis of AgentBench performance data
   - `imagenet/` - Analysis of ImageNet performance data (to be implemented)
 - `governance/` - Contains governance models
-  - `pid_lag/` - Governance PID-Lag model implementation (to be implemented)
+  - `pid_lag/` - Governance PID-Lag model implementation
 
 ## Monte Carlo Jolt Detection
 
@@ -54,6 +58,36 @@ python run_extreme_jolt.py
 ### Integration with Monte Carlo Module
 
 The AgentBench analysis leverages the hybrid jolt detection algorithm developed in the Monte Carlo simulation component. This ensures consistency in methodology across different empirical studies and allows for direct comparison of results.
+
+## Governance PID-Lag Toy Model
+
+The `governance/pid_lag` directory contains an implementation of a PID controller with time lag to simulate governance responses to technological acceleration and jolts. The model captures key real-world governance challenges including response delays, implementation time, effectiveness decay, and effectiveness caps.
+
+### Key Components
+
+- `controller.py` - PID controller with lag implementation
+  - PID controller: Adjusts governance response based on proportional, integral, and derivative terms
+  - Lag model: Simulates real-world governance challenges like response delay and effectiveness decay
+- `technology.py` - Technology progress models with jolts
+  - Exponential growth with optional jolts
+  - Risk calculation using logistic function
+  - Governance effect simulation
+- `run_pid_lag_model.py` - Main script to run simulations
+- `notebooks/` - Jupyter notebooks for interactive exploration
+  - `PID_Lag_Explorer.ipynb` - Interactive parameter exploration
+
+### Usage
+
+```bash
+# Run a basic simulation with default parameters
+python run_pid_lag_model.py
+
+# Run with custom parameters
+python run_pid_lag_model.py --jolt-time 50 --jolt-magnitude 0.3 --response-delay 5
+
+# Run with no jolt (for baseline comparison)
+python run_pid_lag_model.py --jolt-time -1
+```
 
 ## Monte Carlo Jolt Detection
 
