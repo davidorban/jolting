@@ -1,8 +1,9 @@
 # Site settings
 title: "Jolting Technologies"
 description: "Exploring technological acceleration and governance through the Jolting Technologies Hypothesis"
-url: "https://davidorban.github.io"
-baseurl: "/jolting"
+url: "https://jolting.davidorban.com"
+baseurl: ""
+
 repository: "davidorban/jolting"
 
 # Build settings
