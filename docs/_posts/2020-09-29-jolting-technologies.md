@@ -38,3 +38,15 @@ Example 2: An other simple example is when you realize you need to brake harder 
 Example 3: The cost of DNA sequencing is [decreasing at a super exponential rate](https://www.genome.gov/about-genomics/fact-sheets/Sequencing-Human-Genome-cost). (Except for recent market gauging close to patent expiration). Full human genome at $3B in 2000, about $1K now.
 
 Example 4: Quantum computers are improving at a jolting rate: [their chips follow a variant of Moore's Law](https://www.dwavesys.com/tutorials/background-reading-series/introduction-d-wave-quantum-hardware), and their output is an exponential function of the increase of their components, the qubits.
+
+Example 5: AIs designing AIs, neural networks improving neural networks are a jolting technology that is going to disrupt how we think about cognitive tasks. See [Generative Adversarial Networks](https://en.wikipedia.org/wiki/Generative_adversarial_network).
+
+How will jolting technologies impact established industries? They will be more surprising, more unbelievable, more disruptive, harder to prepare for and to cope with than the changes we’ve seen with exponential technologies. Here are a few forecasts on my side. Let’s look back at them in a few years.
+
+Forecast 1: 5G mobile networks together with LEO satellite swarms will have a jolting effect on communications availability on a worldwide basis.
+
+Forecast 2: Self driving electric cars will have a jolting effect on the transportation industry. Most car companies of today will not survive, with the exception of Tesla and one or two others
+
+An increasing rate of jolt is the jounce. I fully expect jouncing technologies in a postsingularitarian world.
+
+To be informed about jolting technologies follow and like the Jolting page on Facebook, @joltingtech on Twitter, and sign up for updates at [http://jolting.co](http://jolting.co).

@@ -5,6 +5,8 @@ date: 2020-11-01
 categories: [Technology, Innovation]
 ---
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DRKmSvMF5I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 What does it mean that Elon Musk is jolting? He understands that in order to reach the ambitious missions of his companies in time, exponential change is not enough anymore.
 
 To transition humanity to renewable energy before runaway climate change creates irreversible damage, Tesla must produce cars, solar systems, batteries, in such volumes, that it would be impossible with the current rate of innovation. The goal would be unreachable. But Tesla is compounding the rate of innovation to unprecedented levels, starting from first principles, creating new mining processes for raw minerals, up to new types of automated factories.

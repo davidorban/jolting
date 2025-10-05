@@ -5,6 +5,8 @@ date: 2020-11-01
 categories: [Technology, AI]
 ---
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O1TM6fcFV60" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 At a recent conference on the future of electronics manufacturing, the Chief Architect of Intel, Raja Koduri, presented a compelling picture for delivering a 1000 times increase in the power of AI systems by 2025.
 
 He counts on the ecosystem of third parties, as well as Intel's engineering prowess, to achieve a 4x improvement in several key areas: memory, interconnect, architecture, software, and packaging. Since the improvement of four times of each multiplies with the improvement of all the others, 4x4x4x4x4 = 4^5 = 1024. That is the relatively simple elementary calculation to deliver at the end the thousandfold improvement.
