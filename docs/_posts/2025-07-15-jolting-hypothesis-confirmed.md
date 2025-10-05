@@ -23,7 +23,7 @@ The Jolting Technologies Hypothesis confirmed in real-time. Published my paper o
 
 [View the original post](https://x.com/AISafetyMemes/status/1945106610709238139)
 
-![METR Chart](https://x.com/AISafetyMemes/status/1945106610709238139/photo/1)
+[View the chart here](https://x.com/AISafetyMemes/status/1945106610709238139/photo/1)
 
 ## METR's Findings
 
