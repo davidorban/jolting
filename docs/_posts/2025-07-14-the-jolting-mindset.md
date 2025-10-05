@@ -90,6 +90,19 @@ After the development phase and feedback through peer review, I'm sharing the co
 
 You can read the academic paper about the mathematical foundations of Jolting Technologies on [arXiv](https://arxiv.org/abs/2507.06398).
 
+**Citation:**
+
+```
+@misc{orban2025jolting,
+  title={Jolting Technologies: Superexponential Acceleration in AI Capabilities and Implications for AGI},
+  author={David Orban},
+  year={2025},
+  eprint={2507.06398},
+  archivePrefix={arXiv},
+  primaryClass={cs.AI}
+}
+```
+
 ### What's in the Paper
 
 - Complete mathematical framework with formal proofs establishing when and how technologies exhibit jolting behavior
