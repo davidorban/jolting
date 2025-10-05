@@ -50,4 +50,5 @@ Paper available on [arXiv](https://arxiv.org/abs/2507.06398).
 
 ## License
 
-MIT License
+- **Code**: MIT License
+- **Text and Documentation**: Creative Commons Attribution (CC-BY)
