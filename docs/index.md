@@ -19,6 +19,7 @@ Jolting refers to sudden, super-exponential accelerations in technological progr
 - [Research & Code](research.md)
 - [Simulations](simulations.md)
 - [Blog](blog.md)
+- [Download PDF](jolting-technologies-david-orban.pdf)
 
 ## Latest Updates
 
