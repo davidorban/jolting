@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-<img src="assets/images/jolting-technologies-david-orban-cover.jpg" alt="Jolting Technologies Cover" style="max-width: 100%; height: auto;">
+<img src="assets/images/jolting-technologies-david-orban-cover.jpg" alt="Jolting Technologies Cover" style="max-width: 33%; height: auto; display: block; margin: 0 auto;">
 
 # Welcome to Jolting Technologies
 
