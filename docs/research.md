@@ -35,7 +35,18 @@ cd jolting
 
 ## Citation
 
-[Publication details forthcoming]
+```
+@misc{orban2025jolting,
+  title={Jolting Technologies: Superexponential Acceleration in AI Capabilities and Implications for AGI},
+  author={David Orban},
+  year={2025},
+  eprint={2507.06398},
+  archivePrefix={arXiv},
+  primaryClass={cs.AI}
+}
+```
+
+Paper available on [arXiv](https://arxiv.org/abs/2507.06398).
 
 ## License
 
