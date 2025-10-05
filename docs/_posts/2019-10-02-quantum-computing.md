@@ -8,14 +8,6 @@ date: 2019-10-02
 
 ---
 
-<div class="post-header">
-
-<h1>{{ page.title }}</h1>
-
-<p>{{ page.date | date: "%B %d, %Y" }}</p>
-
-</div>
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7N-rS7jwxHw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Quantum computers have been under development for decades. Are they about to start delivering on their promise?

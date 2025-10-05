@@ -5,11 +5,6 @@ date: 2020-11-01
 categories: [Technology, AI]
 ---
 
-<div class="post-header">
-<h1>{{ page.title }}</h1>
-<p>{{ page.date | date: "%B %d, %Y" }}</p>
-</div>
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/O1TM6fcFV60" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 At a recent conference on the future of electronics manufacturing, the Chief Architect of Intel, Raja Koduri, presented a compelling picture for delivering a 1000 times increase in the power of AI systems by 2025.

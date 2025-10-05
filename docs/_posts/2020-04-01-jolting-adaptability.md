@@ -8,14 +8,6 @@ date: 2020-04-01
 
 ---
 
-<div class="post-header">
-
-<h1>{{ page.title }}</h1>
-
-<p>{{ page.date | date: "%B %d, %Y" }}</p>
-
-</div>
-
 The lack of adequate response by so many governments to the pandemic, even when plenty of positive and negative examples were already available from other countries that have been impacted before them, is a sign that maybe the mental models that are applied to the decision making are inadequate.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4SFkvTQeNKI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -5,11 +5,6 @@ date: 2020-11-01
 categories: [Technology, Innovation]
 ---
 
-<div class="post-header">
-<h1>{{ page.title }}</h1>
-<p>{{ page.date | date: "%B %d, %Y" }}</p>
-</div>
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4DRKmSvMF5I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 What does it mean that Elon Musk is jolting? He understands that in order to reach the ambitious missions of his companies in time, exponential change is not enough anymore.

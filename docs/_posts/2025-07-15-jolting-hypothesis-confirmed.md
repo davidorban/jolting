@@ -5,11 +5,6 @@ date: 2025-07-15
 categories: [AI, Research, Jolting]
 ---
 
-<div class="post-header">
-<h1>{{ page.title }}</h1>
-<p>{{ page.date | date: "%B %d, %Y" }}</p>
-</div>
-
 The Jolting Technologies Hypothesis confirmed in real-time. Published my paper on AI's superexponential growth just a few days ago. Now METR reports AI task completion doubling time dropped from 7 months → 4 months. This is EXACTLY what "jolting" means.
 
 ## Quoting @AISafetyMemes

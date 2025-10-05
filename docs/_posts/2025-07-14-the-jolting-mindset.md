@@ -5,11 +5,6 @@ date: 2025-07-14
 categories: [AI, Policymaking, Technology]
 ---
 
-<div class="post-header">
-<h1>{{ page.title }}</h1>
-<p>{{ page.date | date: "%B %d, %Y" }}</p>
-</div>
-
 The Jolting Technologies Hypothesis is a complete framework for interpreting an increasingly complex and rapidly changing world.
 
 What if the world isn't changing exponentially, but superexponentially? What if the acceleration itself is accelerating? What if the mathematical models we use to predict technological progress, guiding trillion-dollar investments, inform startup strategies, and shape government policies, are fundamentally wrong? These are not hypothetical questions. The evidence suggests we're living through a phase where progress is more than exponential. If true, then every framework based on constant doubling times is already obsolete. The difference between exponential and superexponential isn't subtle: it's the difference between having years to adapt and having months. This is the message of the Jolting Technologies Hypothesis.
