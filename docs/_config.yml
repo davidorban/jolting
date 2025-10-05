@@ -1,0 +1,32 @@
+# Site settings
+title: "Jolting Technologies"
+description: "Exploring technological acceleration and governance through the Jolting Technologies Hypothesis"
+url: "https://davidorban.github.io"
+baseurl: "/jolting"
+repository: "davidorban/jolting"
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+theme: minima
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# Collections
+collections:
+  posts:
+    output: true
+    permalink: /blog/:year/:month/:day/:title/
+
+# Exclude from processing
+exclude:
+  - Gemfile.lock
+  - vendor/
+
+# Include
+include:
+  - _pages
