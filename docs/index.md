@@ -3,6 +3,8 @@ layout: default
 title: Home
 ---
 
+![Jolting Technologies Cover](assets/images/jolting-technologies-david-orban-cover.jpg)
+
 # Welcome to Jolting Technologies
 
 The Jolting Technologies Hypothesis explores the nature of technological acceleration, governance challenges, and the potential for discontinuous jumps in capability growth.

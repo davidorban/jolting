@@ -28,11 +28,11 @@ header h1 {
 }
 
 .nav-toggle {
-  display: none;
+  display: none !important;
 }
 
 .nav-toggle-label {
-  display: none;
+  display: none !important;
   position: absolute;
   top: 20px;
   right: 20px;
