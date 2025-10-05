@@ -93,11 +93,12 @@ code {
 }
 
 pre {
-  background: #34495e;
-  color: #ecf0f1;
+  background: white;
+  color: #1a252f;
   padding: 15px;
   border-radius: 5px;
   overflow-x: auto;
+  border: 1px solid #ecf0f1;
 }
 
 blockquote {
