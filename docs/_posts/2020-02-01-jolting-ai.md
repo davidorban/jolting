@@ -6,9 +6,9 @@ title: "Jolting AI"
 
 date: 2020-02-01
 
-author: mauroblanco
-
 ---
+
+# Jolting AI
 
 [2019 report on AI](https://hai.stanford.edu/ai-index/2019)
 
