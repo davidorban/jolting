@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Intel Is Jolting"
 date: 2020-11-01
 categories: [Technology, AI]

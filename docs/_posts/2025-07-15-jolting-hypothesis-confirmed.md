@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Jolting Technologies Hypothesis Confirmed in Real-Time"
 date: 2025-07-15
 categories: [AI, Research, Jolting]

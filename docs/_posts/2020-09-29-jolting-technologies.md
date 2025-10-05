@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Jolting Technologies"
 date: 2020-09-29
 categories: [Technology, Philosophy]

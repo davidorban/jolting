@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "The Jolting Mindset: Why Exponential Thinking No Longer Explains Our Reality"
 date: 2025-07-14
 categories: [AI, Policymaking, Technology]
