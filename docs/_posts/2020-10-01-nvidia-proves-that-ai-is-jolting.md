@@ -8,7 +8,13 @@ date: 2020-10-01
 
 ---
 
-# NVIDIA Proves That AI Is Jolting
+<div class="post-header">
+
+<h1>{{ page.title }}</h1>
+
+<p>{{ page.date | date: "%B %d, %Y" }}</p>
+
+</div>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GOfiSLIYc2I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

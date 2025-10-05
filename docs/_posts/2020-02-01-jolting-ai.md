@@ -8,7 +8,13 @@ date: 2020-02-01
 
 ---
 
-# Jolting AI
+<div class="post-header">
+
+<h1>{{ page.title }}</h1>
+
+<p>{{ page.date | date: "%B %d, %Y" }}</p>
+
+</div>
 
 Between 2012 and 2018 the power of the infrastructure available for applications in artificial intelligence increased over three hundred thousand times. If it followed Moore’s law, it would have been much less, around 7 times or so.
 

@@ -8,7 +8,13 @@ date: 2020-04-01
 
 ---
 
-# Jolting Adaptability
+<div class="post-header">
+
+<h1>{{ page.title }}</h1>
+
+<p>{{ page.date | date: "%B %d, %Y" }}</p>
+
+</div>
 
 The lack of adequate response by so many governments to the pandemic, even when plenty of positive and negative examples were already available from other countries that have been impacted before them, is a sign that maybe the mental models that are applied to the decision making are inadequate.
 

@@ -5,6 +5,11 @@ date: 2020-09-29
 categories: [Technology, Philosophy]
 ---
 
+<div class="post-header">
+<h1>{{ page.title }}</h1>
+<p>{{ page.date | date: "%B %d, %Y" }}</p>
+</div>
+
 There is a paradigm shift moving from accelerating technological change to jolting technological change.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PJu1k3mQt4Q" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
