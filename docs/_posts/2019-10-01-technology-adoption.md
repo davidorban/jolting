@@ -1,11 +1,7 @@
 ---
-
 layout: post
-
 title: "Technology Adoption"
-
 date: 2019-10-01
-
 ---
 
 The rate of technology adoption changes based on individual preferences and social norms.

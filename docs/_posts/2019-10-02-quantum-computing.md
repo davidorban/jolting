@@ -1,13 +1,7 @@
 ---
-
 layout: post
-
 title: "Quantum Computing"
-
-{{ ... }}
-
 date: 2019-10-02
-
 ---
 
 Quantum computers have been under development for decades.
