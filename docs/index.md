@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: The Jolting Technologies Hypothesis
 ---
 
 <img src="assets/images/jolting-technologies-david-orban-cover.jpg" alt="Jolting Technologies Cover" style="max-width: 33%; height: auto; display: block; margin: 0 auto;">
