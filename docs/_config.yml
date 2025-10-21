@@ -3,7 +3,7 @@ title: "Jolting Technologies"
 description: "Exploring technological acceleration and governance through the Jolting Technologies Hypothesis"
 url: "https://jolting.davidorban.com"
 baseurl: ""
-image: /assets/images/jolting-technologies-david-orban-cover.jpg
+image: https://jolting.davidorban.com/assets/images/jolting-technologies-david-orban-cover.jpg
 
 repository: "davidorban/jolting"
 
