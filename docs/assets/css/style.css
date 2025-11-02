@@ -244,6 +244,12 @@ footer a:hover {
   color: #1a252f;
 }
 
+/* Cover image hover effect */
+main a img:hover {
+  transform: scale(1.02);
+  box-shadow: 0 15px 40px rgba(0,0,0,0.3) !important;
+}
+
 /* Responsive design */
 @media (max-width: 768px) {
   header, main, footer {
